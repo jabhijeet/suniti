@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "lastUsedProvider": "ollama",
+  "providers": {
+    "ollama": {
+      "settings": {
+        "provider": "ollama",
+        "apiKey": "ollama",
+        "model": "llama3.2",
+        "baseUrl": "http://localhost:11434/"
+      },
+      "updatedAt": "2026-03-27T02:28:01.464Z",
+      "tokenSource": "manual"
+    }
+  }
+}
